@@ -14,13 +14,6 @@ https://github.com/microsoft/Swin-Transformer
 
 ## Load Model
 
-```python
-import torch
-HUB_URL = "SharanSMenon/swin-transformer-hub"
-MODEL_NAME = "swin_tiny_patch4_window7_224"
-# check hubconf for more models.
-model = torch.hub.load(HUB_URL, MODEL_NAME, pretrained=True) # load from torch hub
-```
 
 ## Transforms
 
