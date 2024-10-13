@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJRtDxXyH-ux-O7dA_0MXkfG0MCghWqs?usp=sharing)
+
 ## Swin Transformer PyTorch Hub
 
 This is just a quick way to load Swin Transformers from image classification from PyTorch Hub. This repository makes it possible to load Swin Transformers in 1 line of code. 
